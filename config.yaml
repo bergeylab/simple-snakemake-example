@@ -1,0 +1,24 @@
+sample_ids:
+    AC0013-Cx: AC0013-Cx,
+    AC0026-C: AC0026-C,
+    AC0019-C: AC0019-C,
+    AC0007-C: AC0007-C,
+    AC0021-C: AC0021-C,
+    AC0011-C: AC0011-C,
+    AC0022-C: AC0022-C,
+    AC0015-C: AC0015-C,
+    AC0010-C: AC0010-C,
+    AC0009-Cx: AC0009-Cx,
+    AC0023-C: AC0023-C,
+    AC0017-C: AC0017-C,
+    AC0024-Cx: AC0024-Cx,
+    AC0016-C: AC0016-C,
+    AC0027-C: AC0027-C,
+    AC0012-Cx: AC0012-Cx,
+    AC0018-Cx: AC0018-Cx,
+    AC0014-C: AC0014-C,
+    AC0008-C: AC0008-C,
+    AC0025-C: AC0025-C
+
+genome_fa:
+    genomes/AgamP4/AgamP4_2L.fa
