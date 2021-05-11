@@ -33,7 +33,7 @@ rule bwa_map:
     output:
         "results/mapped_reads/{sample}.bam"
     shell:
-        "module load bwa; " # Needed for Rutgers cluster
+        "module load bwa; module load samtools; " # Needed for Rutgers cluster
         "mkdir -p results/mapped_reads; "
         "bwa mem {input} | samtools view -Sb - > {output}"
 
